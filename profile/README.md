@@ -15,17 +15,17 @@
   <tr>
     <td align="center">
       <a href="https://github.com/oak-cassia">
-        <img src="https://avatars.githubusercontent.com/u/52772732?s=96&v=4" width="120px" height="120px"/>
+        <img src="https://avatars.githubusercontent.com/u/52772732?v=4" width="120px" height="120px"/>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/juwon5272">
-        <img src="https://avatars.githubusercontent.com/u/98096178?s=96&v=4" width="120px" height="120px"/>
+        <img src="https://avatars.githubusercontent.com/u/98096178?v=4" width="120px" height="120px"/>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/Zero-1016">
-        <img src="https://avatars.githubusercontent.com/u/115636461?s=96&v=4" width="120px" height="120px"/>
+        <img src="https://avatars.githubusercontent.com/u/115636461?v=4" width="120px" height="120px"/>
       </a>
     </td>
   </tr>
